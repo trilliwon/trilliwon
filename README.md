@@ -18,4 +18,4 @@
 - 📫 How to reach me: trilliwon@gmail.com
 - ⚡ Fun fact: I recently started to learn tennis.
 
-[![Won's github stats](https://github-readme-stats.vercel.app/api?username=trilliwon)](https://github.com/trilliwon/github-readme-stats)
+[![Won's github stats](https://github-readme-stats.vercel.app/api?username=trilliwon&show_icons=true&theme=onedark)](https://github.com/trilliwon/github-readme-stats)
