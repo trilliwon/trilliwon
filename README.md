@@ -10,7 +10,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/8813422/won)](https://stackoverflow.com/users/8813422/won)
 
 ## Hi there 👋
-##### I'm Won, I'm a Developer who is passionate about Swift, JS, Python, AR and AI.
+##### I'm Won, I'm a Software Developer who is passionate about Swift, JS, Python, AR and AI.
 
 - 🔭 I’m currently working on Swift and JS apps/systems.
 - 🌱 I’m currently learning AI, AR, JS and Swift.
