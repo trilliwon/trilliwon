@@ -17,5 +17,3 @@
 - 💬 Ask me about iOS, JS, Workout.
 - 📫 How to reach me: trilliwon@gmail.com
 - ⚡ Fun fact: I recently started to learn tennis.
-
-[![Won's github stats](https://github-readme-stats.vercel.app/api?username=trilliwon&show_icons=true)](https://github.com/trilliwon/github-readme-stats)
