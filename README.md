@@ -16,4 +16,5 @@
 - 🌱 I’m currently learning AI, AR, JS and Swift.
 - 💬 Ask me about iOS, JS, Workout.
 - 📫 How to reach me: trilliwon@gmail.com
+- 👨🏻‍💻 My[Side Projects](https://apps.apple.com/tt/developer/won-jo/id1050731374).
 - ⚡ Fun fact: I recently started to learn tennis.
