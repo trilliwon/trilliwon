@@ -10,11 +10,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/8813422/won)](https://stackoverflow.com/users/8813422/won)
 
 ## Hi there 👋
-##### I'm Won, I'm a Software Developer who is passionate about Swift, JS, Python, AR and AI.
+##### I'm Won, I'm a Software Developer.
 
-- 🔭 I’m currently working on Swift and JS apps/systems.
-- 🌱 I’m currently learning AI, AR, JS and Swift.
+- 🔭 I’m currently working on Swift, Java and JS apps/systems.
 - 💬 Ask me about iOS, JS, Workout.
 - 📫 How to reach me: trilliwon@gmail.com
 - 👨🏻‍💻 My [Side Projects](https://apps.apple.com/tt/developer/won-jo/id1050731374).
-- ⚡ Fun fact: I recently started to learn tennis.
