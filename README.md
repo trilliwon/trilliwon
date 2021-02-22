@@ -14,7 +14,7 @@ Blog: www.trilliwon.com, https://trilliwon.medium.com/
 ## Hi there 👋
 ##### I'm Won, I'm a Software Developer.
 
-- 🔭 I’m currently working on Swift, Java and JS apps/systems.
+- 🔭 I’m currently working on Swift, JS, Typescript apps/systems.
 - 💬 Ask me about iOS, JS, Workout.
 - 📫 How to reach me: trilliwon@gmail.com
 - 👨🏻‍💻 My [Side Projects](https://apps.apple.com/tt/developer/won-jo/id1050731374).
