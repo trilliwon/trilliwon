@@ -14,4 +14,4 @@
 
 - 🔭 I’m currently working on Swift, JS, Typescript apps/systems.
 - 👨🏻‍💻 My [Side Projects](https://apps.apple.com/tt/developer/won-jo/id1050731374).
-- 📝 Blog: www.trilliwon.com, https://trilliwon.medium.com/
+- 📝 Blog: www.trilliwon.com
