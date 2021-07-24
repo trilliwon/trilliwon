@@ -13,4 +13,4 @@
 ##### I'm Won, I'm a Software Developer.
 
 - 🔭 I’m currently working on Swift, JS, Typescript apps/systems.
-- 👨🏻‍💻 My [Personal Projects](https://apps.apple.com/tt/developer/won-jo/id1050731374).
+- 👨🏻‍💻 My [Apps](https://apps.apple.com/tt/developer/won-jo/id1050731374).
