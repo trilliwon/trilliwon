@@ -9,4 +9,4 @@
 ## Hi there 👋, I'm Won.
 
 - 🔭 I’m currently working on Swift, JS, Typescript apps/systems.
-- 👨🏻‍💻 Built: [Quotes app](https://apps.apple.com/us/app/id6443771811)
+- 👨🏻‍💻 Built: [Quotes app](https://apps.apple.com/us/app/id6443771811?platform=iphone)
