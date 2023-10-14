@@ -8,5 +8,5 @@
 
 ## Hi there 👋, I'm Won.
 
-- 🔭 I’m currently working on Swift, JS, Typescript apps/systems.
+- 🔭 At the moment, I’m developing apps and systems using Swift, JS, and Typescript.
 - 👨🏻‍💻 Built: [Quotes app](https://apps.apple.com/us/app/id6443771811?platform=iphone)
